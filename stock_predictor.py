@@ -106,4 +106,3 @@ if __name__ == '__main__':
     filtered_df.set_index(filtered_df['date'], inplace=True)
     filtered_df.drop(columns=["date"], inplace=True)
     stock_predictor.plot_and_save(filtered_df, "TATA_STEEL", "predictions")
-    print()
