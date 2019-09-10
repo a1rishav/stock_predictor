@@ -36,7 +36,7 @@ class StockPredictor:
 
     def plot_and_save(self, df, label, title, figsize=(16, 8)):
         figure = df.plot(label=label, figsize=figsize, title=title).get_figure()
-        figure.savefig(os.path.join("predictions", label + "-" + title + ".pdf"))
+        figure.savefig(os.path.join("predictions", label + "-" + title + ".png"))
         print()
 
     def prepare_training_data(self, df, days_to_look_back=32):
