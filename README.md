@@ -9,7 +9,7 @@ It's accuracy is appreciable and it's easy to implement.
 
 ## Can I use to trade stocks in real time ?
 
-To trade stocks you need to perform actions like buy, hold and sell. You can dry Reinforcement learning algorithms for that like look at this super cool blog https://towardsdatascience.com/aifortrading-2edd6fac689d
+To trade stocks you need to perform actions like buy, hold and sell. You can try Reinforcement learning algorithms for that like look at this super cool blog https://towardsdatascience.com/aifortrading-2edd6fac689d
 
 ## How to use this code?
 
@@ -17,7 +17,7 @@ To trade stocks you need to perform actions like buy, hold and sell. You can dry
 - Save it to data directory
 - Open stock_predictor.py and change the path to downloaded stock data
 - Run stock_predictor.py
-- Take a look at the scores of algos used
+- Take a look at the scores of algos used in the console
 - Prediction plot is saved in the predictions directory
 
 ## Ready for goosebumbs?
