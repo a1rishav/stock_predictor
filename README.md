@@ -22,10 +22,10 @@ To trade stocks you need to perform actions like buy, hold and sell. You can try
 
 ## Ready for goosebumbs?
 
-Ridge Score : 0.9644882450009289
-Lasso Score : 0.9632919774209426
-Gradient Boost Score : 0.9293716359486464
-ARD Score : 0.9655156746242711
+- Ridge Score : 0.9644882450009289
+- Lasso Score : 0.9632919774209426
+- Gradient Boost Score : 0.9293716359486464
+- ARD Score : 0.9655156746242711
 
 ![alt text](https://github.com/a1rishav/stock_predictor/blob/master/predictions/TATA_STEEL-predictions.png)
 
