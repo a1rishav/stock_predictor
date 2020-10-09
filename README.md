@@ -20,7 +20,7 @@ To trade stocks you need to perform actions like buy, hold and sell. You can try
 - Take a look at the scores of algos used in the console
 - Prediction plot is saved in the predictions directory
 
-## It overfits?
+## It overfits
 
 ### Performance on test dataset
 
